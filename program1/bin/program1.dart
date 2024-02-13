@@ -48,7 +48,7 @@ class Camera {
 void main() {
   Camera c1 = Camera(id: 1, brand: 'Camera 1', color: 'Black', prize: 45000.99);
   Camera c2 = Camera(id: 2, brand: 'Realme', color: 'Indigo', prize: 16000.99);
-  Camera c3 = Camera(id: 3, brand: 'Sony', color: 'Blue', prize: 25000.99);
+  Camera c3 = Camera(id: 3, brand: 'Sony', color: 'Blue', prize: 250000.99);
   printCameraDetails(c1);
   printCameraDetails(c2);
   printCameraDetails(c3);
